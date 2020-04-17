@@ -10,11 +10,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
+
         // 修改了些什么东西
 
         // you ge
 
-        // asdfadf
-
+        // 11111111
     }
 }
